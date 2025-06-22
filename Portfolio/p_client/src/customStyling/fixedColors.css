@@ -1,0 +1,26 @@
+.background {
+  background-color: rgba(0, 12, 32, 0.979);
+}
+
+.sectionBackground {
+  background-color: #161b22;
+}
+
+.borderLine {
+  background-color: #30363d;
+}
+
+.headingText {
+  color: #c9d1d9;
+}
+
+.paragraphText {
+  color: #8b949e;
+}
+
+.linkText {
+  color: #58a6ff;
+}
+.linkText:hover {
+  color: #345e8f;
+}
